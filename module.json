@@ -6,6 +6,9 @@
   "author": "Sven Werlen",
   "scripts": ["data-toolbox.js", "scripts/d3/d3.min.js", "scripts/d3-fetch/d3-fetch.min.js", "scripts/letscontribute.js", "scripts/jdd/jdd.js"],
   "styles": ["data-toolbox.css"],
+    "systems": [
+      "D35E"
+    ],
   "languages": [
     {
       "lang": "en",
@@ -26,9 +29,9 @@
       "entity": "Macro"
     }
   ],
-  "url": "https://github.com/SvenWerlen/fvtt-data-toolbox",
-  "download": "https://github.com/SvenWerlen/fvtt-data-toolbox/archive/v-2.0.0.zip",
-  "manifest": "https://raw.githubusercontent.com/SvenWerlen/fvtt-data-toolbox/master/module.json",
+  "url": "https://github.com/rughalt/fvtt-data-toolbox",
+  "download": "https://github.com/rughalt/fvtt-data-toolbox/archive/v-2.0.0.zip",
+  "manifest": "https://raw.githubusercontent.com/rughalt/fvtt-data-toolbox/master/module.json",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.8"
 }
