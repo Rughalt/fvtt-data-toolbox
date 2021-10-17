@@ -1,6 +1,6 @@
 {
-  "name": "data-toolbox",
-  "title": "Data Toolbox for FoundryVTT",
+  "name": "35e-data-toolbox",
+  "title": "3.5e SRD - Data Toolbox",
   "description": "Tools for generating/manipulating data (compendiums). For example, it can be used for generating a compendium from a CSV file.",
   "version": "2.0.0",
   "author": "Rugnalt",
