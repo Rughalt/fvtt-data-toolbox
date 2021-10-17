@@ -30,7 +30,7 @@
     }
   ],
   "url": "https://github.com/rughalt/fvtt-data-toolbox",
-  "download": "https://github.com/rughalt/fvtt-data-toolbox/archive/v35-2.0.0.zip",
+  "download": "https://github.com/rughalt/fvtt-data-toolbox/archive/v2.0.0-3.5e.zip",
   "manifest": "https://raw.githubusercontent.com/rughalt/fvtt-data-toolbox/master/module.json",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.8"
